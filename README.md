@@ -1,4 +1,4 @@
-# Automated Block Control Network System
+# OFDMA Network Stimulation
 
 ## 📝 Table of Contents
 
@@ -30,7 +30,7 @@ These instructions will get you a copy of the project up and running on your loc
 and testing purposes.
 
 ```console
-git clone https://github.com/devgranty/bulk-excel-file-reader.git
+git clone https://github.com/devgranty/OFDMA-network-stimulation.git
 ```
 
 To clone this repository
