@@ -4,7 +4,7 @@
   "description": "Block control network system is the use of signaling protocol to manage access to the shared radio resource such as frequency channels and so on in a way that ensures efficient use of the available resource and avoids interference between different users or services. This is a simplified and stimulated version of the Orthogonal Frequency Division Multiple Access (OFDMA) technique to allocate radio resource blocks to different users based on their bandwidth requirement and quality of service (QoS) parameters.",
   "main": "server.js",
   "scripts": {
-    "serve": "nodemon server.js"
+    "serve": "node server.js"
   },
   "author": "Grant Adiele",
   "license": "ISC",
